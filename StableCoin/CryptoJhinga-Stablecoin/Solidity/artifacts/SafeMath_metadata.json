@@ -1,0 +1,47 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Math operations with safety checks that throw on error",
+			"kind": "dev",
+			"methods": {},
+			"title": "SafeMath",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"CryptoJhinga-Stablecoin/Solidity/Jhinga.sol": "SafeMath"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"CryptoJhinga-Stablecoin/Solidity/Jhinga.sol": {
+			"keccak256": "0x57432c7778b5db54c6103de6af52587bdcfa1ff74ebc22a36a93f50272decfb4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5b02fbd87677444fba8df972e1633a14183dabcfe89fe496ab79016ea317e8b4",
+				"dweb:/ipfs/QmYCXsi19jf5qE7hobD5VdHbfhTDQiNpD7u2ccae24mnSU"
+			]
+		}
+	},
+	"version": 1
+}
